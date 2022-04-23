@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henk van der Duim (@henkvanderduim)
-- 👀 I’m interested in AWS Cloud, python, data science and machine learning
+- 👀 I’m interested in AWS Cloud, python, data engineering, data science and machine learning
 - 🌱 I’ve finished my AWS Cloud Engineer course @Techgrounds
 - 💞️ I’m looking to collaborate on projects involving data science and machine learning
 - 📫 How to reach me henk.vanderduim@gmail.com
