@@ -6,7 +6,7 @@ I am:
 👉 curious  
 👉 involved  
 👉 organizational  
-👉 Accurate  
+👉 accurate  
 👉 goal / solution oriented  
 👉 inspiring  
 👉 communicative  
@@ -18,7 +18,13 @@ I am:
 I am the author of:  
 👉 Ideas as Opiates (poem book)  
 👉 Twitter and Personal Branding  
-👉 In addition, I have written about 250 Haikus (and still counting...)   
+👉 In addition, I have written about 250 Haikus (and still counting...) 
+
+I love to talk about:  
+👉 Data Engineering. 
+👉 Data Science. 
+👉 Personal Branding  
+👉 Computational Thinking. 
 
 I love to talk about:  
 👉 Data Engineering  
@@ -39,4 +45,5 @@ I love to talk about:
  </tr>
 </table>  
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
