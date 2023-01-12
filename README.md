@@ -1,5 +1,9 @@
 # Henk van der Duim
+<<<<<<< HEAD
 Data Engineer, currently specializing in Snowflake. Work with Tableau, Power BI, VsCode, Python.  
+=======
+Data Engineer, currently specializing in Snowflake. Works with Tableau, Power BI, VsCode, Python.  
+>>>>>>> 6271d40736967d3d2a23b0df08dd0d0863d8f236
 
 ## About Me  
 
