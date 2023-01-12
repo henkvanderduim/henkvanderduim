@@ -31,4 +31,6 @@ I am the author of:
   <td><a href="https://hackernoon.com/u/paperhouse"><img src="pictures/hackernoon.svg" alt="Hackernoon" width="40"></a></td>
   <td><a href="https://www.henkvanderduim.nl"><img src="pictures/wordpress.svg" alt="Weblog" width="40"></a></td>
  </tr>
-</table>
+</table>  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
