@@ -1,12 +1,7 @@
 # Henk van der Duim
-<<<<<<< HEAD
 Data Engineer, currently specializing in Snowflake. Work with Tableau, Power BI, VsCode, Python.  
-=======
-Data Engineer, currently specializing in Snowflake. Works with Tableau, Power BI, VsCode, Python.  
->>>>>>> 6271d40736967d3d2a23b0df08dd0d0863d8f236
 
 ## About Me  
-
 I am:  
 👉 curious  
 👉 involved  
@@ -35,3 +30,5 @@ I am the author of:
   <td><a href="https://medium.com/@henkvanderduim"><img src="pictures/medium.svg" alt="Medium" width="40"></a></td>
   <td><a href="https://hackernoon.com/u/paperhouse"><img src="pictures/hackernoon.svg" alt="Hackernoon" width="40"></a></td>
   <td><a href="https://www.henkvanderduim.nl"><img src="pictures/wordpress.svg" alt="Weblog" width="40"></a></td>
+ </tr>
+</table>
