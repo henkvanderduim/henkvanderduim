@@ -1,32 +1,12 @@
-# Henk van der Duim
-Data Engineer, currently specializing in Snowflake. Work with Tableau, Power BI, VsCode, Python.  
+# Stichting amsterdam&partners  
+amsterdam&partners is een non-profit organisatie. Ons doel is te bouwen aan een betere reputatie van de Metropool Amsterdam door het gidsen van bewoners, bedrijven en bezoekers langs alle bekende en onbekende plekken en mogelijkheden van de stad en de metropool.  
 
-## About Me  
-I am:  
-👉 curious  
-👉 involved  
-👉 organizational  
-👉 Accurate  
-👉 goal / solution oriented  
-👉 inspiring  
-👉 communicative  
-👉 driven  
-👉 creative  
-👉 practical  
-👉 getting things done  
-
-I am the author of:  
-👉 Ideas as Opiates (poem book)  
-👉 Twitter and Personal Branding  
-👉 In addition, I have written about 250 Haikus (and still counting...)   
-
-## Where to find me  
+## Waar zijn wij te vinden  
 <table>
  <tr>
-  <td><a href="https://www.linkedin.com/in/henkvanderduim/"><img src="pictures/linkedin.svg" alt="LinkedIn" width="40"></a></td>
-  <td><a href="https://github.com/henkvanderduim"><img src="pictures/github.svg" alt="GitHub" width="40"></a></td>
-  <td><a href="https://twitter.com/henkvanderduim"><img src="pictures/twitter.svg" alt="Twitter" width="40"></a></td>
-  <td><a href="https://instagram.com/henkvanderduim"><img src="pictures/instagram.svg" alt="Instagram" width="40"></a></td>
-  <td><a href="https://medium.com/@henkvanderduim"><img src="pictures/medium.svg" alt="Medium" width="40"></a></td>
-  <td><a href="https://hackernoon.com/u/paperhouse"><img src="pictures/hackernoon.svg" alt="Hackernoon" width="40"></a></td>
-  <td><a href="https://www.henkvanderduim.nl"><img src="pictures/wordpress.svg" alt="Weblog" width="40"></a></td>
+  <td><a href="https://twitter.com/iamsterdam"><img src="picture/twitter.svg" alt="Twitter" width="40"></a></td>
+  <td><a href="https://nl-nl.facebook.com/Iamsterdamnl"><img src="picture/facebook.svg" alt="Facebook" width="40"></a></td>
+  <td><a href="https://www.instagram.com/uitinams/"><img src="picture/instagram.svg" alt="Instagram" width="40"></a></td>
+  <td><a href="https://www.youtube.com/channel/UChDDu57JtPVUSQsAdgRF05w"><img src="picture/youtube.svg" alt="Youtube" width="40"></a></td>
+ </tr>
+</table>
