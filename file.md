@@ -2,7 +2,6 @@
 Data Engineer, currently specializing in Snowflake. Work with Tableau, Power BI, VsCode, Python.  
 
 ## About Me  
-
 I am:  
 👉 curious  
 👉 involved  
