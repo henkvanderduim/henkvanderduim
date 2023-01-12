@@ -18,7 +18,13 @@ I am:
 I am the author of:  
 👉 Ideas as Opiates (poem book)  
 👉 Twitter and Personal Branding  
-👉 In addition, I have written about 250 Haikus (and still counting...)   
+👉 In addition, I have written about 250 Haikus (and still counting...) 
+
+I love to talk about:
+👉 Data Engineering
+👉 Data Science
+👉 Personal Branding
+👉 Computational Thinking
 
 ## Where to find me  
 <table>
