@@ -26,12 +26,6 @@ I love to talk about:
 👉 Personal Branding  
 👉 Computational Thinking. 
 
-I love to talk about:  
-👉 Data Engineering  
-👉 Data Science  
-👉 Personal Branding  
-👉 Computational Thinking  
-
 ## Where to find me  
 <table>
  <tr>
