@@ -6,7 +6,7 @@ I am:
 👉 curious  
 👉 involved  
 👉 organizational  
-👉 Accurate  
+👉 accurate  
 👉 goal / solution oriented  
 👉 inspiring  
 👉 communicative  
