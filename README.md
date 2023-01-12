@@ -21,10 +21,10 @@ I am the author of:
 👉 In addition, I have written about 250 Haikus (and still counting...) 
 
 I love to talk about:  
-👉 Data Engineering. 
-👉 Data Science. 
+👉 Data Engineering  
+👉 Data Science  
 👉 Personal Branding  
-👉 Computational Thinking. 
+👉 Computational Thinking  
 
 ## Where to find me  
 <table>
