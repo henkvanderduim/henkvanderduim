@@ -40,4 +40,14 @@ I love to talk about:
 </table>  
 <!--START_SECTION:waka-->
 
+```text
+From: 11 January 2023 - To: 12 January 2023
+
+Total Time: 1 hr 17 mins
+
+Markdown     42 mins         >>>>>>>>>>>>>>-----------   55.48 %
+Python       32 mins         >>>>>>>>>>>--------------   42.36 %
+Git Config   1 min           >------------------------   02.16 %
+```
+
 <!--END_SECTION:waka-->
