@@ -40,12 +40,16 @@ I love to talk about:
 </table>  
 
 ## Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d48a0c30-6bbc-4a05-b213-782e7ed088ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<table>
+ <tr>
+  <td><a href="https://www.credly.com/badges/3cb9bacd-f323-4383-adb2-6c5968ea0532/public_url"><img src="pictures/aws-re-start-graduate.png" alt="AWS" width="80"></a></td>
+  <td><a href="hhttps://www.credly.com/badges/d48a0c30-6bbc-4a05-b213-782e7ed088ca/public_url"><img src="pictures/hands-on-essentials-data-warehouse.png" alt="Snowflake" width="80"></a></td>
+ </tr>
+</table> 
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 16 January 2023
+From: 11 January 2023 - To: 15 January 2023
 
 Total Time: 1 hr 17 mins
 
