@@ -38,6 +38,10 @@ I love to talk about:
   <td><a href="https://www.henkvanderduim.nl"><img src="pictures/wordpress.svg" alt="Weblog" width="40"></a></td>
  </tr>
 </table>  
+
+## Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d48a0c30-6bbc-4a05-b213-782e7ed088ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--START_SECTION:waka-->
 
 ```text
