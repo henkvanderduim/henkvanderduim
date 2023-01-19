@@ -50,13 +50,14 @@ I love to talk about:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 15 January 2023
+From: 11 January 2023 - To: 17 January 2023
 
-Total Time: 1 hr 17 mins
+Total Time: 1 hr 47 mins
 
-Markdown     42 mins         >>>>>>>>>>>>>>-----------   55.48 %
-Python       32 mins         >>>>>>>>>>>--------------   42.36 %
-Git Config   1 min           >------------------------   02.16 %
+Markdown     42 mins         >>>>>>>>>>---------------   39.82 %
+Python       32 mins         >>>>>>>>-----------------   30.66 %
+CSV          20 mins         >>>>>--------------------   18.81 %
+Other        6 mins          >>-----------------------   06.31 %
 ```
 
 <!--END_SECTION:waka-->
