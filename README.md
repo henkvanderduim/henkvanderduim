@@ -46,6 +46,7 @@ I love to talk about:
   <td><a href="https://www.credly.com/badges/0050ca83-0416-4886-9cde-fbe5261bc5ab/public_url"><img src="pictures/aws-certified-cloud-practitioner.png" alt="AWS" width="80"></a></td>
   <td><a href="hhttps://www.credly.com/badges/d48a0c30-6bbc-4a05-b213-782e7ed088ca/public_url"><img src="pictures/hands-on-essentials-data-warehouse.png" alt="Snowflake" width="80"></a></td>
   <td><a href="https://www.credly.com/badges/a4038c43-92cb-49d2-9741-970df170ab8c/public_url"><img src="pictures/hands-on-essentials-data-applications.png" alt="Snowflake" width="80"></a></td>
+  <td><a href="https://www.credly.com/badges/1f02da06-333c-40fd-b19a-b065dd106284/public_url"><img src="pictures/hands-on-essentials-data-sharing.png" alt="Snowflake" width="80"></a></td>
  </tr>
 </table> 
 <!--START_SECTION:waka-->
