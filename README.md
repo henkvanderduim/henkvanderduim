@@ -16,7 +16,7 @@ I am:
 👉 getting things done  
 
 I am the author of:  
-👉 Ideas as Opiates (poem book)  
+👉 Ideas as Opiates (book of poems)  
 👉 Twitter and Personal Branding  
 👉 In addition, I have written about 250 Haikus (and still counting...) 
 
