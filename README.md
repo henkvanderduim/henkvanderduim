@@ -42,7 +42,7 @@ I love to talk about:
 ## Badges
 <table>
  <tr>
-  <td><img src="pictures/1640010844410.jpeg" alt="Linux" width="80">/td>
+  <td><img src="pictures/1640010844410.jpeg" alt="Linux" width="80"></td>
   <td><a href="https://www.credly.com/badges/3cb9bacd-f323-4383-adb2-6c5968ea0532/public_url"><img src="pictures/aws-re-start-graduate.png" alt="AWS" width="80"></a></td>
   <td><a href="https://www.credly.com/badges/0050ca83-0416-4886-9cde-fbe5261bc5ab/public_url"><img src="pictures/aws-certified-cloud-practitioner.png" alt="AWS" width="80"></a></td>
   <td><a href="hhttps://www.credly.com/badges/d48a0c30-6bbc-4a05-b213-782e7ed088ca/public_url"><img src="pictures/hands-on-essentials-data-warehouse.png" alt="Snowflake" width="80"></a></td>
