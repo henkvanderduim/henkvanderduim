@@ -55,16 +55,16 @@ I love to talk about:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 26 January 2023
+From: 11 January 2023 - To: 27 January 2023
 
-Total Time: 4 hrs 6 mins
+Total Time: 5 hrs 22 mins
 
-Python       1 hr 49 mins    >>>>>>>>>>>--------------   44.66 %
-Markdown     1 hr 14 mins    >>>>>>>>-----------------   30.22 %
-CSV          20 mins         >>-----------------------   08.37 %
-JSON         13 mins         >------------------------   05.35 %
-SQL          11 mins         >------------------------   04.54 %
-Other        7 mins          >------------------------   02.95 %
+Python       2 hrs 57 mins   >>>>>>>>>>>>>>-----------   55.10 %
+Markdown     1 hr 14 mins    >>>>>>-------------------   23.05 %
+CSV          20 mins         >>-----------------------   06.39 %
+JSON         13 mins         >------------------------   04.08 %
+SQL          11 mins         >------------------------   03.46 %
+Git Config   9 mins          >------------------------   02.83 %
 ```
 
 <!--END_SECTION:waka-->
