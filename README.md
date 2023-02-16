@@ -56,13 +56,14 @@ I love to talk and write about:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 13 February 2023
+From: 11 January 2023 - To: 14 February 2023
 
-Total Time: 8 hrs 25 mins
+Total Time: 11 hrs 12 mins
 
-Python       4 hrs 34 mins   >>>>>>>>>>>>>>-----------   54.34 %
-Markdown     1 hr 16 mins    >>>>---------------------   15.24 %
-Other        51 mins         >>>----------------------   10.15 %
+Python       6 hrs 1 min     >>>>>>>>>>>>>------------   53.73 %
+Markdown     1 hr 16 mins    >>>----------------------   11.44 %
+SQL          1 hr 12 mins    >>>----------------------   10.72 %
+Other        1 hr 11 mins    >>>----------------------   10.56 %
 ```
 
 <!--END_SECTION:waka-->
