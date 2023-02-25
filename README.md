@@ -56,12 +56,12 @@ I love to talk and write about:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 22 February 2023
+From: 11 January 2023 - To: 23 February 2023
 
 Total Time: 13 hrs 50 mins
 
 Python       6 hrs 56 mins   >>>>>>>>>>>>>------------   50.18 %
-SQL          1 hr 40 mins    >>>----------------------   12.08 %
+SQL          1 hr 40 mins    >>>----------------------   12.07 %
 Markdown     1 hr 16 mins    >>-----------------------   09.27 %
 Other        1 hr 11 mins    >>-----------------------   08.58 %
 ```
