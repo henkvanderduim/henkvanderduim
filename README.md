@@ -56,7 +56,7 @@ I love to talk and write about:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 24 February 2023
+From: 11 January 2023 - To: 25 February 2023
 
 Total Time: 13 hrs 50 mins
 
