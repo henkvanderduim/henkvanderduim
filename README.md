@@ -27,7 +27,7 @@ I love to talk and write about:
 👉 Personal Branding  
 👉 Computational Thinking  
 
-👉 An example of my writing: <a href="https://hackernoon.com/174-ai-tools-to-try">174 AI-Tools To Try</a>
+👉 An example of my scribblings: <a href="https://hackernoon.com/174-ai-tools-to-try">174 AI-Tools To Try</a>
 
 ## Where to find me  
 <table>
