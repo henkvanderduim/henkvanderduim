@@ -19,7 +19,7 @@ I am the author of:
 👉 Ideas as Opiates (book of poems)  
 👉 Twitter and Personal Branding  
 👉 In addition, I have written about 250 Haikus (and still counting...)  
-👉 My articles can be found on my <a href="https://www.henkvanderduim.nl/schrijfwerk/">personal website</a>.
+👉 My articles can be found on my <a href="https://www.henkvanderduim.nl/schrijfwerk/">personal website (Dutch)</a>, and <a href="https://hackernoon.com/u/paperhouse">Hackernoon (English)</a>.
 
 I love to talk and write about:  
 👉 Data Engineering  
