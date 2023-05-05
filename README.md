@@ -26,6 +26,7 @@ I love to talk and write about:
 👉 Data Science  
 👉 Personal Branding  
 👉 Computational Thinking  
+👉 Artificial Intelligence   
 
 👉 An example of my scribblings: <a href="https://hackernoon.com/174-ai-tools-to-try">174 AI-Tools To Try</a>
 
